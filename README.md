@@ -1,1 +1,1 @@
-# shehacks
+# Hera Health SheHacks
