@@ -3,7 +3,7 @@
 Hera health aims at creating instantaneous disease prediction systems, to allow medical practitioners to intervene early and prevent diseases at an early stage
 We want to create a standalone application that can be used from the comfort of one's own home to find out if they have any symptoms or if they have any doubts about a condition. We want to make predicting the most frequent diseases simple, economical, quick and effortless.
 
-CODE ZIP FILE : https://drive.google.com/drive/folders/17fxej8-uO4XyBrq_47uKOvsxuQrJACrH?usp=sharing
+CODE ZIP FILE : https://drive.google.com/drive/folders/17fxej8-uO4XyBrq_47uKOvsxuQrJACrH?usp=sharinghttps://drive.google.com/drive/folders/17fxej8-uO4XyBrq_47uKOvsxuQrJACrH?usp=sharing
 
 ## Features
 * Predicting fatal Diseases
